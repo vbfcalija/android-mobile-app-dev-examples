@@ -63,7 +63,7 @@
 	```bash
 	git clone https://github.com/user/repo.git
 	# example
-	git clone https://github.com/arielmagbanua/android-mobile-app-dev-examples.git
+	git clone https://github.com/vbfcalija/android-mobile-app-dev-examples.git
 	```
 
 
